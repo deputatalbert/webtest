@@ -1,11 +1,5 @@
 function insert (num){
-	/*let test;
-	test = document.getElementById('n1').textContent;
-	
-	document.getElementById('output').innerHTML = document.getElementById('output').innerHTML + num;
-*/
-
-document.form.textview.value = document.form.textview.value + num;
+	document.form.textview.value = document.form.textview.value + num;
 
 }
 
